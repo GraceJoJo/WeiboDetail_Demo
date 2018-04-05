@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Activity主题 -->
+    <style name="style_translucent_activity" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
+        <item name="toolbarStyle">@style/MyActionBarStyle</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/MyActionBarStyle</item>
+        <!--可以通过为application、activity自定义主题的方式来关掉多点触摸功能：http://blog.csdn.net/zswlove1988/article/details/52839444-->
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:splitMotionEvents">false</item>
+
+    </style>
+    <style name="MyActionBarStyle" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@android:color/white</item>
+        <!-- Support library compatibility -->
+        <item name="background">@android:color/white</item>
+        <!--解决左边一直有一块边距的问题 contentInsetStart = 0 -->
+        <item name="contentInsetStart">0dp</item>
+        <item name="contentInsetEnd">0dp</item>
+
+    </style>
+</resources>

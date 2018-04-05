@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="我是详情页面"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:lineSpacingExtra="10dp"
+        android:text="李健《袖手旁观》，李建的演绎更加符合一个刚过了不惑之年的男子，对当年走进了自己内心，却只留下背影的那个人难以名状的情感。
+  爱情来过，爱情走了。
+  心，伤过。手，放了。
+  握过的掌心留不下一丝温度。
+  美好的回忆，也已被泪水打得模糊。
+  泪干了，痕迹还在。
+
+
+
+  #李健#
+我依然热爱生活
+不必依赖什么
+不必诚惶诚恐
+不必忧心忡忡
+做我所想，无愧也不犹豫 ​​​​
+
+李健《袖手旁观》，李建的演绎更加符合一个刚过了不惑之年的男子，对当年走进了自己内心，却只留下背影的那个人难以名状的情感。
+  爱情来过，爱情走了。
+  心，伤过。手，放了。
+  握过的掌心留不下一丝温度。
+  美好的回忆，也已被泪水打得模糊。
+  泪干了，痕迹还在。
+
+
+
+  #李健#
+我依然热爱生活
+不必依赖什么
+不必诚惶诚恐
+不必忧心忡忡
+做我所想，无愧也不犹豫 ​​​​
+
+李健《袖手旁观》，李建的演绎更加符合一个刚过了不惑之年的男子，对当年走进了自己内心，却只留下背影的那个人难以名状的情感。
+  爱情来过，爱情走了。
+  心，伤过。手，放了。
+  握过的掌心留不下一丝温度。
+  美好的回忆，也已被泪水打得模糊。
+  泪干了，痕迹还在。
+
+
+
+  #李健#
+我依然热爱生活
+不必依赖什么
+不必诚惶诚恐
+不必忧心忡忡
+做我所想，无愧也不犹豫 ​​​​
+李健《袖手旁观》，李建的演绎更加符合一个刚过了不惑之年的男子，对当年走进了自己内心，却只留下背影的那个人难以名状的情感。
+  爱情来过，爱情走了。
+  心，伤过。手，放了。
+  握过的掌心留不下一丝温度。
+  美好的回忆，也已被泪水打得模糊。
+  泪干了，痕迹还在。
+
+
+
+  #李健#
+我依然热爱生活
+不必依赖什么
+不必诚惶诚恐
+不必忧心忡忡
+做我所想，无愧也不犹豫 ​​​​
+
+
+
+
+
+  小长假开始了，我依然在大夜班[嘻嘻]K雾中列车 当我再次离开的时候，归途中不在是少年，谁记得雾中的列车，就像人海中的我，错过故乡错过你，继续漂泊。 ​​​​
+"
+        android:textSize="16sp" />
+
+</LinearLayout>
